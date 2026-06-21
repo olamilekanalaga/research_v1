@@ -1,0 +1,4 @@
+outcome_group,tokens,avg_max_buy1m_first5m,avg_max_sell1m_first5m,avg_max_buyers1m_first5m,avg_max_trades1m_first5m,avg_min_risk_first5m,avg_min_top10_first5m
+did_not_hit20,8005,39.21,44.09,0.83,2.3,5.65,2.52
+hit50,546,5476.29,1767.49,43.54,85.43,8.07,20.05
+middle_hit20_not50,199,5451.11,1513.04,21.08,43.4,7.78,18.55
